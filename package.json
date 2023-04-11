@@ -1,0 +1,22 @@
+{
+  "name":"cypress-applitools",
+  "version":"1.0.0",
+  "description":"POC",
+  "main":"index.js",
+  "scripts":{
+     "cypress":"cypress open",
+     "task:v1":"cypress run"
+  },
+  "keywords":[
+     "Applitools",
+     "Hackathon",
+     "Cypress",
+     "Ultra Fast Grid",
+     "Visual Testing"
+  ],
+  "license":"ISC",
+  "dependencies":{
+     "@applitools/eyes-cypress":"^3.16.1",
+     "cypress":"^6.1.0"
+  }
+}
