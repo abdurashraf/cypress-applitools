@@ -24,6 +24,4 @@
   * Used the Strict match level
   * Grouped the tests into batches
   * Used _applitools.config.js_ for configuration
-  
-* Followed the [best practices](https://docs.cypress.io/guides/references/best-practices.html) for **Cypress**
-
+ 
